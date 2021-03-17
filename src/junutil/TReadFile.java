@@ -22,6 +22,6 @@ public class TReadFile {
 			System.out.println("<class>com.bjb.entry."+cf.getName().replaceAll(".java", "")+"</class>");
 		}
 		
-		System.out.println("-----------------------------------end");
+		System.out.println("-----------------------------------end123");
 	}
 }
