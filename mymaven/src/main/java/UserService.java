@@ -1,0 +1,3 @@
+@MyService
+public class UserService {
+}
